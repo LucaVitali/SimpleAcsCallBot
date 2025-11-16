@@ -1,4 +1,4 @@
-# AcsCallBot
+# SimpleAcsCallBot
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)  
 ![Azure App Service](https://img.shields.io/badge/Azure-App%20Service-0089D6.svg)  
 ![Azure Communication Services](https://img.shields.io/badge/Azure-Communication%20Services-0078D4.svg)  
@@ -7,7 +7,7 @@
 ---
 
 ## Overview
-**AcsCallBot** is an ASP.NET Core Web API that integrates **Microsoft Teams Phone System**, **Azure Communication Services (ACS)**, and **Azure Event Grid** to automatically answer incoming calls and play an audio message hosted on **Azure Blob Storage**.
+**SimpleAcsCallBot** is an ASP.NET Core Web API that integrates **Microsoft Teams Phone System**, **Azure Communication Services (ACS)**, and **Azure Event Grid** to automatically answer incoming calls and play an audio message hosted on **Azure Blob Storage**.
 
 This project demonstrates:
 - Receiving incoming calls via **Teams Phone Extensibility**.
