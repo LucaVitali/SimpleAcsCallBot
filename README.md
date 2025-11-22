@@ -62,7 +62,7 @@ Set these environment variables in **Azure App Service → Configuration → Env
 ## Download
 You can download the latest ready-to-use package here:
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/LucaVitali/SimpleAcsCallBot/latest
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/LucaVitali/SimpleAcsCallBot/releases/latest)
 
 ---
 
